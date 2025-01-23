@@ -14,6 +14,7 @@ This repository is organized into three main folders:
 Contains the source code used in the project:
 
 **Google Colab**: Python code file for data analysis.
+
 **Cassandra**: A notes file with the necessary code to work with the Cassandra database.
 
 ### 2. **Data**
