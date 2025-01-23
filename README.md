@@ -34,9 +34,9 @@
     - 1.4.3 Algorithm: Decision tree.
 **2. CONCLUSIONS**.
 
-  **Technical file**: Technical description of the methods and processes used in the project.
+- **Technical file**: Technical description of the methods and processes used in the project.
   
-  **Presentation**: Visual presentation created with **Power BI**, summarizing the findings and results of the analysis.
+- **Presentation**: Visual presentation created with **Power BI**, summarizing the findings and results of the analysis.
 
 ## PROJECT OBJETIVE
   The project aims to perform a comprehensive analysis of air traffic data, explore patterns in the information, and present conclusions based on descriptive analysis, correlation matrix, and the use of machine learning algorithms (such as the Decision Tree). It also      seeks to demonstrate how large volumes of data can be managed and analyzed using Big Data tools and how results can be presented visually using Power BI.
