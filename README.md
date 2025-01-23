@@ -29,9 +29,9 @@
     - 1.2 Cassandra.
     - 1.3 PySpark DataFrame.
     - 1.4 Descriptive analysis, correlation matrix, and logarithm:
-    - 1.4.1 Descriptive analysis.
-    - 1.4.2 Correlation analysis.
-    - 1.4.3 Algorithm: Decision tree.
+      - 1.4.1 Descriptive analysis.
+      - 1.4.2 Correlation analysis.
+      - 1.4.3 Algorithm: Decision tree.
   - **2. CONCLUSIONS**.
 
 - **Technical file**: Technical description of the methods and processes used in the project.
