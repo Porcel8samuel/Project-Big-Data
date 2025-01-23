@@ -10,7 +10,7 @@
 ## PROJECT STRUCTURE
   This repository is organized into three main folders:
 
-### 1. **Code**
+### 1. [**Code**](Proyecto-Big-Data/code)
   Contains the source code used in the project:
 
   - **Google Colab**: Python code file for data analysis.
