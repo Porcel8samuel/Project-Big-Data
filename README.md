@@ -17,10 +17,10 @@
   
   - **Cassandra**: A notes file with the necessary code to work with the Cassandra database.
 
-### 2. **Data**
+### 2. [**Data**](./data/)
   Contains the dataset in **CSV** format with information on traffic at San Francisco International Airport used for analysis.
 
-### 3. **Docs**
+### 3. [**Docs**](./docs/)
   Contains important documents related to the project:
 
 - **Report**: A detailed document on the project's development, with the following index:
