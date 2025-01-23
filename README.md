@@ -35,6 +35,7 @@
 **2. CONCLUSIONS**.
 
   **Technical file**: Technical description of the methods and processes used in the project.
+  
   **Presentation**: Visual presentation created with **Power BI**, summarizing the findings and results of the analysis.
 
 ## PROJECT OBJETIVE
