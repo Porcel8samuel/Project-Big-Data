@@ -1,4 +1,4 @@
-# Proyect Big Data
+# Project Big Data - Analysis of Traffic at San Francisco International Airsport
   This project is the final project of the Big Data course at Tokio School. The objective is to conduct a comprehensive analysis of a dataset on traffic at San Francisco International Airport (SFO), utilizing various Big Data tools and approaches.
 
 ## TOOLS USED
